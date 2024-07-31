@@ -1,0 +1,14 @@
+.github/workflows
+Strip launcher (#111)
+3 years ago
+arm64
+Use SetupWizard from GSI to avoid crashing (#109)
+3 years ago
+x64
+Use SetupWizard from GSI to avoid crashing (#109)
+3 years ago
+LICENSE
+Initial commit
+3 years ago
+README.md
+Adds latest adb files. Installer now opens WSASettings and Installs M…
